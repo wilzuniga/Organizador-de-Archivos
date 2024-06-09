@@ -19,9 +19,8 @@ Este script de Python organiza los archivos de un directorio específico en subc
 
 
 
-`
-    git clone https://github.com/tuusuario/organizador-archivos.git
-    `
+    `[    git clone https://github.com/tuusuario/organizador-archivos.git
+    ](https://github.com/wilzuniga/Organizador-de-Archivos.git)`
 
 2. Navega al directorio del proyecto:
 
@@ -43,14 +42,6 @@ Este script de Python organiza los archivos de un directorio específico en subc
     python organizador.py
     `
 
-## Estructura del Proyecto
-
-`
-organizador-archivos/
-│
-├── organizador.py   # Script principal para organizar archivos
-├── README.md        # Documentación del proyecto
-`
 
 ## Extensiones Soportadas
 
